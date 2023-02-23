@@ -8,7 +8,7 @@ In this project we will be analyzing seismic data on mars, the geology of the mo
 ### Problem Statement
 ### Questions/Objectives
 
-## Datasets
+### Datasets
 https://www.iris.edu/hq/sis/insight#marsm
 
 ### Tools
