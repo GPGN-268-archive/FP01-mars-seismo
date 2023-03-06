@@ -14,6 +14,7 @@ How does seismic data from Mars compare to that of Earth and what can they tell 
 - Are there any similarities/differences in the data trends? Why might that be?
 ### Datasets
 https://www.iris.edu/hq/sis/insight#marsm
+
 https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-data
 
 ### Tools
