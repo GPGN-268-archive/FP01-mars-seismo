@@ -7,11 +7,13 @@ In this project we will be analyzing seismic data on mars, the geology of the mo
 
 ### Problem Statement
 How does seismic data from Mars compare to that of Earth and what can they tell us about geological/geophysical similarities and differences between the two planets?
+
 ### Questions/Objectives
 - How many quakes occur on average on each planet?
 - What is the streghth of these events?
 - Are there any hotspots? If so, what are the geologic features of those areas?
 - Are there any similarities/differences in the data trends? Why might that be?
+- 
 ### Datasets
 https://www.iris.edu/hq/sis/insight#marsm
 
@@ -32,8 +34,13 @@ https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-data
 
 
 ### Tools
+- Jupyter Lab programming with Numpy, Pandas, Matplotlib
 
 ## Methodology
+
+
+## Anticipated Challenges
+- Some challenges we anticipate to face while taking on this project include potential struggles reading or interpreting certain data types that we might have less experience with.  We may have to search deep within some studies that we reference for assistance on understanding the meaning of information presented, whether that be graphs that we need to interpret into a story, or the opposite, words that we need to compile into our own figures or graph.
 
 ## Expected Outcomes
 
