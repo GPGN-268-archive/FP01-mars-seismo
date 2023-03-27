@@ -37,7 +37,7 @@ https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-data
 - Jupyter Lab programming with Numpy, Pandas, Matplotlib
 
 ## Methodology
-
+- We have divided up the work for our project in what we think is a logical manner and will each focus on those designated topics.  We plan to create our own  notebooks to work within individually on our topics and then sync up the notebooks into a final product afterwards.  
 
 ## Anticipated Challenges
 - Some challenges we anticipate to face while taking on this project include potential struggles reading or interpreting certain data types that we might have less experience with.  We may have to search deep within some studies that we reference for assistance on understanding the meaning of information presented, whether that be graphs that we need to interpret into a story, or the opposite, words that we need to compile into our own figures or graph.
