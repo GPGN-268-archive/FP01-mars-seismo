@@ -13,11 +13,13 @@ How does seismic data from Mars compare to that of Earth and what can they tell 
 - What is the streghth of these events?
 - Are there any hotspots? If so, what are the geologic features of those areas?
 - Are there any similarities/differences in the data trends? Why might that be?
-- 
+
 ### Datasets
 https://www.iris.edu/hq/sis/insight#marsm
 
 https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-data
+
+https://pds-geosciences.wustl.edu/missions/mer/geo_mer_datasets.htm
 
 ### Project Board
 - Find reliable data sets to look at - everyone
@@ -43,5 +45,6 @@ https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-data
 - Some challenges we anticipate to face while taking on this project include potential struggles reading or interpreting certain data types that we might have less experience with.  We may have to search deep within some studies that we reference for assistance on understanding the meaning of information presented, whether that be graphs that we need to interpret into a story, or the opposite, words that we need to compile into our own figures or graph.
 
 ## Expected Outcomes
+- From this project, we expect to learn more about Mars and it's geophysical/geological properties as well as the number and strength of earthquakes that often occur there. We anticipate that this project will enhance our skills on enterpreting and representing data sets and that we will be able to apply what we've done in our data story assignments to these new sets of data to create a neat project highlighting our topic in all the best ways.
 
-## References
+### References
