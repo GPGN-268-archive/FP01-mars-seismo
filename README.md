@@ -21,6 +21,9 @@ https://www.usgs.gov/programs/earthquake-hazards/science/earthquake-data
 
 https://pds-geosciences.wustl.edu/missions/mer/geo_mer_datasets.htm
 
+https://github.com/pnavarrc/earthquake/blob/master/data/anss.csv
+
+http://www.koeri.boun.edu.tr/scripts/lst7.asp
 ### Project Board
 - Find reliable data sets to look at - everyone
 - Read and interpret data about the number of quakes occuring on Earth - Grace
