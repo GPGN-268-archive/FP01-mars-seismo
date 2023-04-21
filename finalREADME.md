@@ -6,6 +6,7 @@
 **How to use this repository** 
 
 **Introduction** When gathering data from two seperate planets we wanted to find the most similar geological locations on each planet possible. The data from Mars came from the Elyse station; which is the landing spot for the Mars InSight mission that landed in 2018 and deployed a seismometer to study the planet's interior structure and seismic activity. The landing area, also known as Elysium Planitia, is a field with multiple volcanic constructs. Using this information, and the following topographic map, we begin to look for a location on Earth with similar features. 
+
 <img src="https://www.dlr.de/content/en/images/2018/2/the-landing-site-for-the-insight-mission-in-elysium-planitia_30417.jpg?__blob=normal&v=20__ifc1920w" width="500" height="400">
 
 The data utilzed from Earth was found at Yellowstone and gathered by the Little Thumb Seismic Station. This station sits on the Yellowstone Caldera, which is a volcanic caldera and a hotspot for geothermal activity. 
