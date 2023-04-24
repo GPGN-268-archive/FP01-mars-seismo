@@ -15,7 +15,7 @@ The data utilzed from Earth was found at Yellowstone and gathered by the Little 
 It was important to collect our datasets from areas of similar geophysical to 
 
 **Tools and packages used**  
-    We have utilized a handful of packages to run our code in JupyterLab, including numpy, xarray, matplotlib, and obspy.  Obspy is a package specifically used for plotting and displaying seismic data. (Website used for learning Obspy formatting included in references section below)
+    We have utilized a handful of packages to run our code in JupyterLab, including numpy, xarray, matplotlib, and obspy.  Obspy is a package specifically used for plotting and displaying seismic data. (Website used for learning Obspy formatting included in references section below)  
    Other packages:
    - cartopy.crs
    - tifffile
@@ -23,7 +23,7 @@ It was important to collect our datasets from areas of similar geophysical to
 
 **Project methodology/approach**  
     For this project, our first task was to acquire accessible seismic data from a location on Mars, as this data proved to be the most difficult to find, access, and read into our code.  Once we acquired a few different Mars seismic data files, we began the process of converting those files into a readable format to determine what variables we were looking at.  After a brief analysis of the data, we were able to determine what variables were being measured and which seismic tools were used to acquire said data.  With this information in mind, we then began looking for seismic data files from Earth with the same variables and parameters.  Another factor that weighed into our decision of which Earth data set to use was the topographic and geological makeup of the locations, as we wanted the area for the data on Earth to resemble the area for the data on Mars as much as possible.  For this reason, we chose to analyze a seismic data set from Yellowstone, a geothermal hotspot and volcanic caldera, to match the highly volcanic area of the Elysium Planitia on Mars that we were assessing.  
-    The coding for our project came with a bit of a learning curve, as we had never interpreted or plotted this type of data before, and therefore had to learn our way around a new package known as Obspy.  To accomplish this task, we first had to do some research and look at examples of seismic interpretations using Obspy, as well as utilize the Obspy website where they outline key functions to call in order to plot seismic data.
+    The coding for our project came with a bit of a learning curve, as we had never interpreted or plotted this type of seismic data before, and therefore had to learn our way around a new package known as Obspy.  To accomplish this task, we first had to do some research and look at examples of seismic interpretations using Obspy that we found online, as well as utilize the Obspy website wherein they outline key functions to call for plotting seismic data.  It took testing out some different plotting techniques and trying out a few different graphing methods to figure out what worked best for displaying and representing our data.  After compiling our code, we worked to clean up and add titles/labels to our data plots to tie together our final product.
 
 **Summary of the results**  
 (Description of graphs similarities and differences)
