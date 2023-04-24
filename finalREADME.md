@@ -1,7 +1,7 @@
 # FP01-mars-seismo
 **Group Members:** Chloe Locke (@chloelocke), Grace Galvin (@gracegalvin12), Paige Dompier (@pdompier)
 
-**Project Summary** In this project we will be analyzing seismic data from Mars and Earth. Our goal is to successfully interpret and represent the data in order to compare and contrast data trends from the two planets. We will use our findings to identify geological/geophysical similarities and differences between the two planets.  The data from Mars comes from the Elyse station, and the data from Earth comes from The Little Thumb Seismic Station in Yellowstone.
+**Project Summary** In this project we will be analyzing seismic data from Mars and Earth. Our goal is to successfully interpret and represent the data in order to compare and contrast how quakes behave on the two different planets. We will use our findings to identify geological/geophysical similarities and differences between the two planets.  The data from Mars comes from the Elyse station, and the data from Earth comes from The Little Thumb Seismic Station in Yellowstone.
 
 **How to use this repository** 
 
@@ -30,3 +30,11 @@ Through our observations of the seismic events being fairly similar on each plan
 
 **References**  
 “Waveform Plotting Tutorial.” Waveform Plotting Tutorial - ObsPy 1.4.0 Documentation, 21 Nov. 2022, https://docs.obspy.org/tutorial/code_snippets/waveform_plotting_tutorial.html. 
+Yellowstone Topography Data
+https://apps.nationalmap.gov/downloader/
+Mars Topography Data
+https://astrogeology.usgs.gov/search/map/Mars/Topography/HRSC_MOLA_Blend/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2
+https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=fc004c3d21b64c398ed5458580ab7c58
+Mars/Earth Seismic data
+https://service.iris.edu/fdsnws/dataselect/docs/1/builder/
+http://www.fdsn.org/pdf/SEEDManual_V2.4_Appendix-A.pdf
