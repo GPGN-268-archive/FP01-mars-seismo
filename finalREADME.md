@@ -34,11 +34,18 @@ Through our observations of the seismic events being fairly similar on each plan
 
 **References**  
 “Waveform Plotting Tutorial.” Waveform Plotting Tutorial - ObsPy 1.4.0 Documentation, 21 Nov. 2022, https://docs.obspy.org/tutorial/code_snippets/waveform_plotting_tutorial.html. 
+
 Yellowstone Topography Data
 https://apps.nationalmap.gov/downloader/
+
 Mars Topography Data
 https://astrogeology.usgs.gov/search/map/Mars/Topography/HRSC_MOLA_Blend/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2
 https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=fc004c3d21b64c398ed5458580ab7c58
+
 Mars/Earth Seismic data
 https://service.iris.edu/fdsnws/dataselect/docs/1/builder/
 http://www.fdsn.org/pdf/SEEDManual_V2.4_Appendix-A.pdf
+https://github.com/UMD-InSight/InSight-seismic-data-downloader
+
+Other
+https://bigthink.com/hard-science/mars-earthquake-marsquake/
