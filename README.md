@@ -25,10 +25,15 @@
 The data sets can be found in the datafile and at the links below 
 
 [Yellowstone Topography Data](https://apps.nationalmap.gov/downloader/) 
+
 [Mars Topography Data](https://astrogeology.usgs.gov/search/map/Mars/Topography/HRSC_MOLA_Blend/Mars_HRSC_MOLA_BlendDEM_Global_200mp_v2) 
+
 [Geological Map of Mars](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=fc004c3d21b64c398ed5458580ab7c58) 
+
 [Mars/Earth Sesismic Data](https://service.iris.edu/fdsnws/dataselect/docs/1/builder/) 
+
 [SEEDmanuel](http://www.fdsn.org/pdf/SEEDManual_V2.4_Appendix-A.pdf) 
+
 [InSight Seismic Data Downloader](https://github.com/UMD-InSight/InSight-seismic-data-downloader) 
 
 **Tools and packages used**   
