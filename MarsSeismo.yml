@@ -1,0 +1,19 @@
+name: MarsSeismo
+channels:
+- conda-forge
+dependencies:
+- python=3.10*
+- pip
+- cartopy >= 0.20.0
+- cartopy-crs
+- cartopy-feature
+- jupyterlab
+- imagecodecs
+- matplotlib
+- numpy
+- obspy
+- obspy-clients-fdsn
+- obspy-core
+- pandas
+- tifffile
+- xarray
