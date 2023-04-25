@@ -3,20 +3,18 @@
 **Group Members:** Chloe Locke (@chloelocke), Grace Galvin (@gracegalvin12), Paige Dompier (@pdompier) 
 
 **Project Summary** 
-    In this project we will be analyzing seismic data from Mars and Earth. Our goal is to analyze the geological differences between the planets and successfully interpret and represent seismic data in order to compare and contrast how quakes behave on the two different planets. We will use our findings to identify geological/geophysical similarities and differences between the two planets. The data from Mars comes from the Elyse station (Elysium Planitia), and the data from Earth comes from The Little Thumb Seismic Station in Yellowstone. 
 
-**How to use this repository**    
+  In this project we will be analyzing seismic data from Mars and Earth. Our goal is to analyze the geological differences between the planets and successfully interpret and represent seismic data in order to compare and contrast how quakes behave on the two different planets. We will use our findings to identify geological/geophysical similarities and differences between the two planets. The data from Mars comes from the Elyse station (Elysium Planitia), and the data from Earth comes from The Little Thumb Seismic Station in Yellowstone. 
+
+**How to use this repository** 
+
+   To use this repository, begin by reading this entire file to understand the purpose of the repository and what kind of data it holds. Make sure to have all of the packages downloaded that are listed in the MarsSeismo.yml file. All of the code needed to recreate the results of this repository is located in the finalSeismo.ipynb file. The code contains a function that can easily be recreated with your own data sets! However, if you would like to use our data, it can all be found in the DATA folder. If there is any confusion about where certain things are located, the DirTree.pdf contains directions to all files in the repository.
 
 **Introduction**  
 
    When gathering data from two seperate planets we wanted to find similar geological locations on each planet. The data from Mars came from the Elyse station; which is the landing spot for the Mars InSight mission that landed in 2018 and deployed a seismometer to study the planet's interior structure and seismic activity. The landing area, also known as Elysium Planitia, is a field with multiple volcanic constructs. Using this information, and the following topographic map, we begin to look for a location on Earth with similar features.  
-
-<img src="https://www.researchgate.net/profile/Sebastien-Rodriguez/publication/325998973/figure/fig2/AS:655827685867521@1533372913537/Topographic-map-of-the-region-around-the-InSight-landing-site-NSY-showing-major.png" width="500" height="400"> 
-
-  
+ 
    The data utilzed from Earth was found at Yellowstone and gathered by the Little Thumb Seismic Station. This station sits on the Yellowstone Caldera, which is a volcanic caldera and a hotspot for geothermal activity.  
-
-<img src="https://lh3.googleusercontent.com/0P_uBRDIG-t4RjUEtLNsXAy8Wh4m9zyKP4vdingpa6aLOOefOv-rcWZRTSm2Cs8YtJoi-kf1tL8TWKtY0IQgQg1vTvJjXazl5-b2owCW" width="500" height="400"> 
 
   It was important to collect our datasets from areas with similar geology to be able to accurately compare two quakes; along with that we chose two quakes of similar magnitude. The average magnitude for a marsquake is 1-3, with that in mind we decided to analyze an earthquake of magnitude 1.9. Once we found our desired datasets from each planet our goal was to manipulate the data inorder to produce figures to be able to better understand each of the quake and analyze their differences.  
 
