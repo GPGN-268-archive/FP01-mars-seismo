@@ -3,6 +3,11 @@
 **Group Members:** Chloe Locke (@chloelocke), Grace Galvin (@gracegalvin12), Paige Dompier (@pdompier) 
 
 **Project Summary** 
+<<<<<<< HEAD
+=======
+   
+   In this project we will be analyzing seismic data from Mars and Earth. Our goal is to analyze the geological differences between the planets and successfully interpret and represent seismic data in order to compare and contrast how quakes behave on the two different planets. We will use our findings to identify geological/geophysical similarities and differences between the two planets. The data from Mars comes from the Elyse station (Elysium Planitia), and the data from Earth comes from The Little Thumb Seismic Station in Yellowstone. 
+>>>>>>> 7dd0d4718a171850603d7d18152c92872a42bed2
 
   In this project we will be analyzing seismic data from Mars and Earth. Our goal is to analyze the geological differences between the planets and successfully interpret and represent seismic data in order to compare and contrast how quakes behave on the two different planets. We will use our findings to identify geological/geophysical similarities and differences between the two planets. The data from Mars comes from the Elyse station (Elysium Planitia), and the data from Earth comes from The Little Thumb Seismic Station in Yellowstone. 
 
